@@ -12,7 +12,7 @@ export const AppRouter = () => {
     return (
         <Router>
             <header>
-                
+                <h2><i className="mdi mdi-movie-roll"></i>PELUIX</h2>
             </header>
             <main id="main">
                 <Switch>
