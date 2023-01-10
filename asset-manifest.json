@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/peluix/static/css/main.d9737001.chunk.css",
+    "main.js": "/peluix/static/js/main.4d6cf590.chunk.js",
+    "main.js.map": "/peluix/static/js/main.4d6cf590.chunk.js.map",
+    "runtime-main.js": "/peluix/static/js/runtime-main.179d5a8f.js",
+    "runtime-main.js.map": "/peluix/static/js/runtime-main.179d5a8f.js.map",
+    "static/js/2.7ac1c06a.chunk.js": "/peluix/static/js/2.7ac1c06a.chunk.js",
+    "static/js/2.7ac1c06a.chunk.js.map": "/peluix/static/js/2.7ac1c06a.chunk.js.map",
+    "index.html": "/peluix/index.html",
+    "static/css/main.d9737001.chunk.css.map": "/peluix/static/css/main.d9737001.chunk.css.map",
+    "static/js/2.7ac1c06a.chunk.js.LICENSE.txt": "/peluix/static/js/2.7ac1c06a.chunk.js.LICENSE.txt",
+    "static/media/default.ca7e7861.png": "/peluix/static/media/default.ca7e7861.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179d5a8f.js",
+    "static/js/2.7ac1c06a.chunk.js",
+    "static/css/main.d9737001.chunk.css",
+    "static/js/main.4d6cf590.chunk.js"
+  ]
+}
